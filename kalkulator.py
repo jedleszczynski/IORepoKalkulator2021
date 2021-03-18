@@ -1,8 +1,12 @@
 def get_info():
     print("To jest kalkulator")
-def add():
-    print("Wprowadz w liczny a zostana dodane: ")
-    a= int(input())
-    b=int(input())
-    print(a+b)
-add()    
+
+def add(a, b):
+    return a+b
+get_info()
+
+a=int(input())
+b=int(input())
+
+add(a+b)    
+
