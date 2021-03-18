@@ -1,3 +1,5 @@
+def get_info():
+    print("To jest kalkulator")
 def add():
     print("Wprowadz w liczny a zostana dodane: ")
     a= int(input())
