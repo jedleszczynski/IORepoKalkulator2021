@@ -3,4 +3,11 @@ def add():
     a= int(input())
     b=int(input())
     print(a+b)
-add()    
+substract(a,b):
+    return a-b
+
+
+
+add()
+substract(20,3)
+print("Program finished")
