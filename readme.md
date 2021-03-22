@@ -6,3 +6,4 @@ To jest prosty projekt kalkulatora
 	Zmiana 2 na test_branch2
 4. Commit z ubuntu
 5. Commit przy użyciu Ubuntu z uzyciem Public Key Cryptography (VS Code)
+6. Commit przy użyciu Ubuntu z uzyciem Public Key Cryptography (Windows Terminal)
