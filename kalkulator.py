@@ -1,13 +1,15 @@
-def add():
-    print("Wprowadz w liczny a zostana dodane: ")
-    a= int(input())
-    b=int(input())
-    print(a+b)
+def get_info():
+    print("To jest kalkulator")
+
+def add(a, b):
+    return a+b
+get_info()
+
 substract(a,b):
-    return a-b
-
-
-
-add()
-substract(20,3)
+    return a-b  
+a=int(input())
+b=int(input())
+substract(a,b)
+add(a,b)    
 print("Program finished")
+
